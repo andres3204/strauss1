@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'docsy-main'
+baseURL = "/"
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+languageCode = "en-us"
+title = "My Docsy Website"
+disableHugoGeneratorInject = true
+
+[module.hugoVersion]
+extended = true
+min = "0.90.0"
+
+[[module.imports]]
+#disable = true
+mounts = [{ source = "scss", target = "assets/vendor/Font-Awesome/scss" }]
