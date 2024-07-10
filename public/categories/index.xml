@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My Docsy Website</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on My Docsy Website</description>
+    <title>Categories on Strauss Dairy Ingredients</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Strauss Dairy Ingredients</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 15:23:44 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>http://localhost:1313/categories/announcements/</link>
+      <pubDate>Thu, 06 Jun 2024 15:23:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/announcements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/categories/general/</link>
+      <pubDate>Thu, 06 Jun 2024 15:23:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>It</title>
+      <link>http://localhost:1313/categories/it/</link>
+      <pubDate>Thu, 06 Jun 2024 15:23:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/categories/links/</link>
+      <pubDate>Thu, 06 Jun 2024 15:23:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/categories/news/</link>
+      <pubDate>Thu, 06 Jun 2024 15:23:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trucks</title>
+      <link>http://localhost:1313/categories/trucks/</link>
+      <pubDate>Thu, 06 Jun 2024 15:23:44 -0400</pubDate>
+      <guid>http://localhost:1313/categories/trucks/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
